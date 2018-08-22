@@ -16,4 +16,4 @@
 
 ## 3.项目结构
 项目不限vue或react开发，下图为vue项目结构
-[](https://github.com/wenbingyan/FE-CODING/blob/master/img/mulu.png)
+![Image text](https://github.com/wenbingyan/FE-CODING/blob/master/img/mulu.png)
